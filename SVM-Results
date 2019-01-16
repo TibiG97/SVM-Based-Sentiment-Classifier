@@ -1,0 +1,54 @@
+Model: SVM
+Smoothed: True
+Features: Unigrams
+Mode: Frequency
+Stemmed: False
+#Splits: 10
+The average accuracy is: 0.724
+
+
+Model: SVM
+Smoothed: True
+Features: Bigrams
+Mode: Frequency
+Stemmed: False
+#Splits: 10
+The average accuracy is: 0.763
+
+
+Model: SVM
+Smoothed: True
+Features: Both
+Mode: Frequency
+Stemmed: False
+#Splits: 10
+The average accuracy is: 0.729
+
+
+Model: SVM
+Smoothed: True
+Features: Unigrams
+Mode: Presence
+Stemmed: False
+#Splits: 10
+The average accuracy is: 0.865
+
+
+Model: SVM
+Smoothed: True
+Features: Bigrams
+Mode: Presence
+Stemmed: False
+#Splits: 10
+The average accuracy is: 0.823
+
+
+Model: SVM
+Smoothed: True
+Features: Both
+Mode: Presence
+Stemmed: False
+#Splits: 10
+The average accuracy is: 0.874
+
+

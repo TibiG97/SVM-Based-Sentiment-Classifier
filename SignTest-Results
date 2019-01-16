@@ -1,0 +1,12 @@
+p(SVM_frequency_unigrams, SVM_presence_unigrams) = 0.013
+
+p(SVM_frequency_bigrams, SVM_presence_bigrams) = 0.525
+
+p(SVM_frequency_both, SVM_presence_both) = 0.019
+
+p(NB_presence_unigrams, SVM_presence_unigrams) = 0.672
+
+p(NB_presence_bigrams, SVM_presence_bigrams) = 0.358
+
+p(NB_presence_both, SVM_presence_both) = 1.0
+

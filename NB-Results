@@ -1,0 +1,54 @@
+Model: Naive Bayes
+Smoothed: True
+Features: Unigrams
+Mode: Frequency
+Stemmed: False
+#Splits: 10
+The average accuracy is: 0.822
+
+
+Model: Naive Bayes
+Smoothed: True
+Features: Bigrams
+Mode: Frequency
+Stemmed: False
+#Splits: 10
+The average accuracy is: 0.818
+
+
+Model: Naive Bayes
+Smoothed: True
+Features: Both
+Mode: Frequency
+Stemmed: False
+#Splits: 10
+The average accuracy is: 0.837
+
+
+Model: Naive Bayes
+Smoothed: True
+Features: Unigrams
+Mode: Presence
+Stemmed: False
+#Splits: 10
+The average accuracy is: 0.832
+
+
+Model: Naive Bayes
+Smoothed: True
+Features: Bigrams
+Mode: Presence
+Stemmed: False
+#Splits: 10
+The average accuracy is: 0.836
+
+
+Model: Naive Bayes
+Smoothed: True
+Features: Both
+Mode: Presence
+Stemmed: False
+#Splits: 10
+The average accuracy is: 0.855
+
+

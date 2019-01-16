@@ -1,0 +1,3 @@
+Running the Experiment.py file will compute the results specified in the report.
+Afterwards, the average accuracy scores for NB and SVM can be found in NB-Results and SVM-Results files respectively.
+Also, the p_values can be found in SignTest-Results file.
